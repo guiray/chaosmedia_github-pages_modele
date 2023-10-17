@@ -1,8 +1,5 @@
 theme: minima
 title: Journal de création
 
-header_pages:
-  - index.md
-
 minima:
   skin: dark
