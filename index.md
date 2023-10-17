@@ -1,5 +1,3 @@
-![Logo du projet](medias/logo_chaosmedia.svg)
-
 # Nom du projet
 
 ## Description du projet
@@ -9,4 +7,5 @@ Voici une courte description du projet. Cette description devrait être une ou d
 ## Journal de création
 
 [Semaine 8](journaux/semaine8.md)
+
 [Semaine 9](journaux/semaine9.md)
