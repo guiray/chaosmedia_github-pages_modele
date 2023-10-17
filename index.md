@@ -1,4 +1,7 @@
-# Nom du projet
+---
+title: Nom du projet
+layout: 
+---
 
 ## Description du projet
 
@@ -8,4 +11,4 @@ Voici une courte description du projet. Cette description devrait être une ou d
 
 [Semaine 8](journaux/semaine8.md)
 
-[Semaine 9](journaux/semaine9.md)
+[Semaine X](journaux/semaineXX.md)
