@@ -1,6 +1,9 @@
 ---
 title: Accueil
+layout: base
 ---
+
+# Nom du projet (À CHANGER)
 
 ## Description du projet
 
