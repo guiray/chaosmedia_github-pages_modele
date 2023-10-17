@@ -11,6 +11,8 @@ Les medias doivent se retrouver dans le dossier "medias".
 
 Les journaux de création doivent se retrouver dans le dossier "journaux".
 
+Les journaux de création doivent être nommés correctement, et il ne faut pas oublier de changer le "title" dans le haut des journaux.
+
 Vous devez ajouter un lien vers les jounaux sur la page "index.md".
 
 

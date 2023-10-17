@@ -1,6 +1,5 @@
 ---
-title: Nom du projet
-layout: 
+title: Accueil
 ---
 
 ## Description du projet

@@ -2,13 +2,10 @@
 title: Semaine 8
 layout: post
 ---
-# Semaine 8
 
-Résumé de la semaine
+## Consignes
 
-Bon coups et réussites
+Votre journal doit inclure un résumé de la semaine, vos bon coups et réussites, les difficultés et défis, ainsi que les tâches effectuées.
 
-Difficultés et défis
-
-Tâches effectuées
+Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
 
